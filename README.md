@@ -8,3 +8,8 @@ Website for the Tau Beta Pi New York Nu chapter.
 - Include the weekly newsletter
 - Subscribe to email list
 - List and describe all UB TBP events
+- Page honoring Alex and Maxine as the 2023 Engineering Laureates
+- Place to register for honors dinner
+- Practical things that peiple will use
+    Calendar of events
+    Newsletter
