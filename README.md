@@ -14,3 +14,4 @@ Website for the Tau Beta Pi New York Nu chapter.
     Calendar of events
     Newsletter
 - Inner-Page for resume book?
+- Array button for resume layout, display all on one page and then scrolling much like windows E
