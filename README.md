@@ -13,3 +13,4 @@ Website for the Tau Beta Pi New York Nu chapter.
 - Practical things that peiple will use
     Calendar of events
     Newsletter
+- Inner-Page for resume book?
