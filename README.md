@@ -4,7 +4,7 @@ Website for the Tau Beta Pi New York Nu chapter.
 ## Overview:
 - Main page is index.html
 - Links to other pages such as resume_index, resume_index_legacy etc are done in the drop-down menu of index.html.s
-- Next
+- Creating new sections can be done by copying the current code for a section and editing the HTML code within. 
 
 ## TODO List:
 - Add Resume Book, Adapt to NyNu Theme
@@ -20,3 +20,5 @@ Website for the Tau Beta Pi New York Nu chapter.
     Newsletter
 - Inner-Page for resume book?
 - Array button for resume layout, display all on one page and then scrolling much like windows E
+- add a page for current faculty members and like a short bio for each of them? Most of their headshots ready here https://docs.google.com/document/d/1fqHlXYIT4mBmULWZjBqVcqczZrmfaKVtwVFcZanWwi8/edit?usp=sharing
+- .org site domain
