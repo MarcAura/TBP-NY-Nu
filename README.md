@@ -22,3 +22,5 @@ Website for the Tau Beta Pi New York Nu chapter.
 - Array button for resume layout, display all on one page and then scrolling much like windows E
 - add a page for current faculty members and like a short bio for each of them? Most of their headshots ready here https://docs.google.com/document/d/1fqHlXYIT4mBmULWZjBqVcqczZrmfaKVtwVFcZanWwi8/edit?usp=sharing
 - .org site domain
+- Meet Our Members, option to allow each member to put their resume, linkedin and website with their professional headshot. Members, after a certain amount of participation can add a bio. Eboard member bios.
+- Faculty biography
