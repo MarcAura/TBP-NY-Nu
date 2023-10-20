@@ -2,7 +2,7 @@
 Website for the Tau Beta Pi New York Nu chapter.
 
 ## Overview:
-- 
+- Main page is index.html
 
 ## TODO List:
 - Add Resume Book, Adapt to NyNu Theme
