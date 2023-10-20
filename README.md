@@ -3,6 +3,7 @@ Website for the Tau Beta Pi New York Nu chapter.
 
 ## Overview:
 - Main page is index.html
+- Links to other pages such as resume_index, resume_index_legacy etc are done in the drop-down menu of index.html.s
 
 ## TODO List:
 - Add Resume Book, Adapt to NyNu Theme
