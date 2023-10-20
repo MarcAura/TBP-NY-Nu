@@ -24,3 +24,4 @@ Website for the Tau Beta Pi New York Nu chapter.
 - .org site domain
 - Meet Our Members, option to allow each member to put their resume, linkedin and website with their professional headshot. Members, after a certain amount of participation can add a bio. Eboard member bios.
 - Faculty biography
+- Team page template link: https://htmlcodex.com/demo/?item=660
