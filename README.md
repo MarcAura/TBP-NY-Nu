@@ -1,6 +1,9 @@
 # TBP-NY-Nu
 Website for the Tau Beta Pi New York Nu chapter.
 
+## Overview:
+- 
+
 ## TODO List:
 - Add Resume Book, Adapt to NyNu Theme
 - Log-in with admin credentials to edit files
